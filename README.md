@@ -1,4 +1,3 @@
-@"
 
 \# Java Design Patterns — Simplified Notes \& Examples
 
